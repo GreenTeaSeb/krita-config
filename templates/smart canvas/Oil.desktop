@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=.icon/Oil.png
+Name=Oil
+Type=Link
+URL[$e]=.source/Oil.kra
+X-KDE-Hidden=false

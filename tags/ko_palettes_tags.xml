@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tags>
+<tags>
+ <resource identifier="dummy">
+  <tag blacklisted="true">ink</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag blacklisted="true">demo</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag blacklisted="true">deevad</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag blacklisted="true">sketch</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag blacklisted="true">paint</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag blacklisted="true">sketch</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag blacklisted="true">paint</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag blacklisted="true">ink</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag blacklisted="true">demo</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag blacklisted="true">deevad</tag>
+ </resource>
+</tags>

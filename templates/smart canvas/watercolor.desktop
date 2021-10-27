@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=.icon/watercolor.png
+Name=watercolor
+Type=Link
+URL[$e]=.source/watercolor.kra
+X-KDE-Hidden=false
